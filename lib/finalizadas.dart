@@ -41,8 +41,6 @@ class FinalizadasScreen extends StatelessWidget {
               }));
             },
           ),
-        ),
-      ],
-    );
+        );
   }
 }
